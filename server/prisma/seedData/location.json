@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Law College Rd, near FTII Institute, Shanti Sheela Society, Erandwane, Pune, Maharashtra 411004, India",
+    "postalCode": "411004",
+    "coordinates": "POINT(73.8333 18.5167)"
+  },
+  {
+    "id": 2,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "City Woods, Shop 18, Opp Gool Poonawalla Garden, Salisbury Park, Pune, Maharashtra 411037, India",
+    "postalCode": "411037",
+    "coordinates": "POINT(73.8656 18.5018)"
+  },
+  {
+    "id": 3,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Fortaleza Complex, 2nd Floor, Above NM Medical, Kalyani Nagar, Pune, Maharashtra 411006, India",
+    "postalCode": "411006",
+    "coordinates": "POINT(73.9000 18.5543)"
+  },
+  {
+    "id": 4,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Survey No.8/10, 3rd Floor, Manhar House, Next to Saibaba Mandir, Satara Rd, Pune, Maharashtra 411037, India",
+    "postalCode": "411037",
+    "coordinates": "POINT(73.8530 18.4780)"
+  },
+  {
+    "id": 5,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "9th Floor, ICC Towers, B Wing, Senapati Bapat Rd, Pune, Maharashtra 411016, India",
+    "postalCode": "411016",
+    "coordinates": "POINT(73.8298 18.5338)"
+  },
+  {
+    "id": 6,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Iriz Building, Baner - Pashan Link Rd, Pune, Maharashtra 411021, India",
+    "postalCode": "411021",
+    "coordinates": "POINT(73.7869 18.5522)"
+  },
+  {
+    "id": 7,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Ganga Home, Row House No.1/2, Next to Bank of India, Viman Nagar, Pune, Maharashtra 411014, India",
+    "postalCode": "411014",
+    "coordinates": "POINT(73.9116 18.5679)"
+  },
+  {
+    "id": 8,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Pride Gateway, 1st Floor, Sr. No. 112, Baner Rd, Opp. Syngenta India Ltd, Pune, Maharashtra 411045, India",
+    "postalCode": "411045",
+    "coordinates": "POINT(73.7755 18.5603)"
+  },
+  {
+    "id": 9,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "1st Floor, Anand Square, Viman Nagar Rd, Opp. Symbiosis International School, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014, India",
+    "postalCode": "411014",
+    "coordinates": "POINT(73.9116 18.5679)"
+  },
+  {
+    "id": 10,
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Shiv-Sai Complex, Next to Octroi Post, Shewalwadi Naka, Solapur - Pune Hwy, Manjri, Pune, Maharashtra 412307, India",
+    "postalCode": "412307",
+    "coordinates": "POINT(73.9860 18.4945)"
+  }
+]
